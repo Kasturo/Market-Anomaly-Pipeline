@@ -1,10 +1,4 @@
-# FinPulse: Financial Data Pipeline with Anomaly Detection
-
-> Automated market data pipeline featuring machine learning anomaly detection, technical trend analysis, an interactive dashboard, and AWS cloud integration. Built to demonstrate financial domain knowledge, data engineering skills, and cloud architecture.
-
-For a longer technical description of every module and output, see [PROJECT_RUNDOWN.md](PROJECT_RUNDOWN.md).
-
----
+# Financial Data Pipeline with Anomaly Detection
 
 ## Project Overview
 
