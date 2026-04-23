@@ -11,24 +11,6 @@ FinPulse is an end-to-end data pipeline that:
 6. **Stores outputs** in Amazon S3 and can run on a schedule via AWS Lambda + EventBridge
 7. **Queries results** with Amazon Athena (serverless SQL over S3)
 
----
-
-## Skills Demonstrated (Resume Talking Points)
-
-| Skill | Where Used |
-|-------|------------|
-| Python data engineering | `pipeline.py`: modular ETL pipeline |
-| Feature engineering | RSI, MACD, Bollinger Bands, momentum scoring |
-| Unsupervised ML (Isolation Forest) | Anomaly detection on multivariate financial data |
-| Statistical modeling | Linear regression for trend slope + R2 |
-| Financial domain knowledge | Regime detection, support/resistance, signal generation |
-| Data visualization | Interactive Chart.js dashboard |
-| Cloud storage (AWS S3) | `aws/s3_storage.py`: artifact upload/download |
-| Serverless computing (AWS Lambda) | `aws/lambda_handler.py`: EventBridge-scheduled pipeline |
-| Serverless SQL (Amazon Athena) | `aws/athena_queries.py`: 8 pre-built analyst queries |
-| Software engineering | Modular, documented, production-style code |
-
----
 
 ## Project Structure
 
