@@ -1,0 +1,13 @@
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+requests>=2.31.0
+
+# AWS integration (S3 storage, Lambda, Athena)
+boto3>=1.34.0
+
+# Optional: load AWS_* from project .env (see .env.example)
+python-dotenv>=1.0.0

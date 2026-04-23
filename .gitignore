@@ -1,0 +1,23 @@
+# Secrets and local config (never commit)
+private
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# AWS / Lambda packaging
+package/
+finpulse.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/

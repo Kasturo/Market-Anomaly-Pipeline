@@ -1,0 +1,183 @@
+{
+  "AAPL": {
+    "trend": {
+      "annual_slope_pct": 22.86,
+      "r2": 0.4703,
+      "regime": "BULL",
+      "support": 201.77,
+      "resistance": 285.92,
+      "current_price": 273.17,
+      "rsi": 67.1,
+      "macd_diff": 1.8379,
+      "momentum_score": 0.676,
+      "signal": "BUY",
+      "bullish_factors": 6
+    },
+    "anomalies": {
+      "total": 11,
+      "pct_of_days": 5.4,
+      "by_type": {
+        "price_spike": 5,
+        "multivariate": 5,
+        "volume_surge": 1
+      },
+      "recent_anomaly_dates": [
+        "2025-10-20",
+        "2026-01-20",
+        "2026-02-04",
+        "2026-02-12",
+        "2026-02-13"
+      ]
+    },
+    "rows": 202,
+    "date_range": {
+      "start": "2025-07-03",
+      "end": "2026-04-22"
+    }
+  },
+  "MSFT": {
+    "trend": {
+      "annual_slope_pct": -43.32,
+      "r2": 0.7482,
+      "regime": "BULL",
+      "support": 356.77,
+      "resistance": 539.83,
+      "current_price": 432.92,
+      "rsi": 88.6,
+      "macd_diff": 7.2747,
+      "momentum_score": 0.79,
+      "signal": "BUY",
+      "bullish_factors": 4
+    },
+    "anomalies": {
+      "total": 11,
+      "pct_of_days": 5.4,
+      "by_type": {
+        "rsi_extreme": 5,
+        "price_spike": 4,
+        "multivariate": 2
+      },
+      "recent_anomaly_dates": [
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22"
+      ]
+    },
+    "rows": 202,
+    "date_range": {
+      "start": "2025-07-03",
+      "end": "2026-04-22"
+    }
+  },
+  "GOOGL": {
+    "trend": {
+      "annual_slope_pct": 56.08,
+      "r2": 0.7817,
+      "regime": "BULL",
+      "support": 173.97,
+      "resistance": 343.45,
+      "current_price": 339.32,
+      "rsi": 80.5,
+      "macd_diff": 3.3073,
+      "momentum_score": 0.631,
+      "signal": "BUY",
+      "bullish_factors": 5
+    },
+    "anomalies": {
+      "total": 11,
+      "pct_of_days": 5.4,
+      "by_type": {
+        "price_spike": 6,
+        "rsi_extreme": 2,
+        "multivariate": 2,
+        "volume_surge": 1
+      },
+      "recent_anomaly_dates": [
+        "2026-03-26",
+        "2026-03-30",
+        "2026-03-31",
+        "2026-04-14",
+        "2026-04-17"
+      ]
+    },
+    "rows": 202,
+    "date_range": {
+      "start": "2025-07-03",
+      "end": "2026-04-22"
+    }
+  },
+  "JPM": {
+    "trend": {
+      "annual_slope_pct": 5.28,
+      "r2": 0.108,
+      "regime": "BULL",
+      "support": 278.72,
+      "resistance": 332.91,
+      "current_price": 313.02,
+      "rsi": 71.2,
+      "macd_diff": 1.3137,
+      "momentum_score": 0.754,
+      "signal": "BUY",
+      "bullish_factors": 5
+    },
+    "anomalies": {
+      "total": 11,
+      "pct_of_days": 5.4,
+      "by_type": {
+        "price_spike": 6,
+        "multivariate": 4,
+        "rsi_extreme": 1
+      },
+      "recent_anomaly_dates": [
+        "2026-01-26",
+        "2026-01-27",
+        "2026-02-06",
+        "2026-04-08",
+        "2026-04-13"
+      ]
+    },
+    "rows": 202,
+    "date_range": {
+      "start": "2025-07-03",
+      "end": "2026-04-22"
+    }
+  },
+  "SPY": {
+    "trend": {
+      "annual_slope_pct": 10.48,
+      "r2": 0.5562,
+      "regime": "BULL",
+      "support": 615.12,
+      "resistance": 711.21,
+      "current_price": 711.21,
+      "rsi": 90.6,
+      "macd_diff": 4.9632,
+      "momentum_score": 0.833,
+      "signal": "BUY",
+      "bullish_factors": 5
+    },
+    "anomalies": {
+      "total": 11,
+      "pct_of_days": 5.4,
+      "by_type": {
+        "multivariate": 5,
+        "rsi_extreme": 4,
+        "volume_surge": 2
+      },
+      "recent_anomaly_dates": [
+        "2026-04-14",
+        "2026-04-17",
+        "2026-04-20",
+        "2026-04-21",
+        "2026-04-22"
+      ]
+    },
+    "rows": 202,
+    "date_range": {
+      "start": "2025-07-03",
+      "end": "2026-04-22"
+    }
+  }
+}
