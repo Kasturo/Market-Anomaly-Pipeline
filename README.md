@@ -1,4 +1,4 @@
-# Financial Data Pipeline with Anomaly Detection
+# Market Anomaly Pipeline
 
 ## Project Overview
 
